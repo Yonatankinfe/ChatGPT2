@@ -1,0 +1,89 @@
+
+  body{
+    background: linear-gradient(to right, #000000, #434343);
+  }
+  .styled-edit-text {
+    background: black;
+    color: white;
+    padding: 10px; 
+    border: 4px solid gold;
+    border-radius: 25px; /* Adjust for desired curve */
+    outline: none;   
+    height: 40px;
+    margin-left: 400px;
+    width: 500px;   /* Remove default focus outline */
+    font-size: 16px;   
+  }
+  .contaner{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .sendbutton{
+    margin-top: 7px;
+    margin-left: 30px;
+    flex-direction: row;
+    color:black;
+    background: linear-gradient(to right, gold,rgb(138, 109, 34));
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border:  gold;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    height: 50px;
+    width: 110px;
+    text-align: center;
+    font-style: bold;
+    font-size: 22px;
+  }
+  .sendbutton:hover{
+    border: none;
+    padding-top: 7px;
+    padding-left: 12px;
+    color:gainsboro;
+    background: darkgoldenrod;
+    border-radius: none;
+  }
+  .title{
+    color: gold;
+    font-size: 30px;
+    font-style: bold;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .header{
+    margin-left: 34%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+  }
+  @media (max-width: 768px) {
+    .title{
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .sendbutton{
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+    .styled-edit-text{
+      margin-left: 20px;
+      
+    }
+  
+
+  }
+  
+  @media (max-width: 400px) {
+    .title {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  .usertext{
+    background: goldenrod;
+    color: white;
+  }
+  

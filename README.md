@@ -1,25 +1,70 @@
-# ChatGPT2
-Welcome to our this repository showcasing the power of ChatGPT-2! In this project, we utilize the API access from Hugging Face to seamlessly integrate ChatGPT-2 into a user-friendly interface. With officially supported UI elements, users can easily interact with ChatGPT-2 in a visually appealing environment.
-# Check It Out
-You can click the above link to chat with chatgpt2 
-# Tools used 
-The website is made by using 
-1 React.js
-2 And by using a limited free API token form Huggingface 
-# Installation/Usage 
-You can use by Dowloading the repo localy or Clone the repository at https://github.com/Yonatankinfe/ChatGPT2
-For using the repo localy 
-1 Navigate to the project dir by using cd
-2 Install the Dependencies by using the command npm install
-3 To Run use the npm start or npm run start
-# Contrbution 
-Contributions are welcome! 
-# This What It Lookes 
-Here are some examples
-# Images 
-![Screenshot 2024-03-01 211514](https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/65c5236f-3b6e-4260-88c4-704b6d4ca5f2)
-![Screenshot 2024-03-01 211630](https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/f7ae56f1-2caa-45f0-87dc-c23a47af7ecf)
-# Video
-https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/5f7f26ec-199c-443b-9cb0-51aacaea3464
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
