@@ -17,6 +17,8 @@ Contributions are welcome!
 # This What It Lookes 
 Here are some examples
 # Images 
+![Screenshot 2024-03-01 211514](https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/65c5236f-3b6e-4260-88c4-704b6d4ca5f2)
+![Screenshot 2024-03-01 211630](https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/f7ae56f1-2caa-45f0-87dc-c23a47af7ecf)
 # Video
 
 
