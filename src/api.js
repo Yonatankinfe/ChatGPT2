@@ -1,6 +1,6 @@
 const query = async (data) => {
     const response = await fetch("https://api-inference.huggingface.co/models/gpt2", {
-      headers: { Authorization: "Bearer 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" },
+      headers: { Authorization: "INSERT YOUR OWN API  KEY" },
       method: "POST",
       body: JSON.stringify({
         inputs: data.inputs,
