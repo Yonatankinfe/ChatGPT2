@@ -46,7 +46,13 @@ Here are some examples of the project in action:
 # 🖼️ Images
 ![Screenshot 2024-03-01 211514](https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/65c5236f-3b6e-4260-88c4-704b6d4ca5f2)
 ![Screenshot 2024-03-01 211630](https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/f7ae56f1-2caa-45f0-87dc-c23a47af7ecf)
-# Video
+# 🎥 Video
 https://github.com/Yonatankinfe/ChatGPT2/assets/158090444/81747a62-0dfa-429e-a609-57b06bb9de87
-# NOTE THAT CURRENTLY THE CHATGPT 2 API IS NOT WORKING SO REPLACE THE DEFAULT API YOU CAN GET THE API FOR HAGGING FACE
+# ⚠️ Warning
+
+NOTE: 🚨 Currently, the ChatGPT-2 API is not working, so please replace the default API. 🔄 You can get a new API from Hugging Face!
+
+
+
+
 
